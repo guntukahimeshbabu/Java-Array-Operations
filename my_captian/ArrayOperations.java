@@ -35,6 +35,7 @@ public class ArrayOperations {
         Scanner sc = new Scanner(System.in);
 
         int[] numbers = new int[5];
+        // Array to store 5 user-provided numbers
 
         System.out.println("Enter 5 different numbers:");
 
