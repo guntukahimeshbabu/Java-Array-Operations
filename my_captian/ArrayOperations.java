@@ -57,8 +57,8 @@ public class ArrayOperations {
             System.out.print(number + " ");
         }
 
-        findSecondValues(numbers);
-
+System.out.println();
+findSecondValues(numbers);
         sc.close();
     }
 }
